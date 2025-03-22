@@ -1,5 +1,6 @@
 # Developing a Neural Network Regression Model
-
+### Name:Vedhashree.G
+### Register Number:212223240171
 ## AIM
 To develop a neural network regression model for the given dataset.
 
@@ -40,9 +41,7 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
 
-### Register Number:
 
 ```python
 class Model(nn.Module):
